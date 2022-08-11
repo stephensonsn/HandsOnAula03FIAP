@@ -1,0 +1,11 @@
+C:\dev\FIAP\Treinamento\ExercTriangulo\bin\Debug\netcoreapp3.1\ExercTriangulo.exe
+C:\dev\FIAP\Treinamento\ExercTriangulo\bin\Debug\netcoreapp3.1\ExercTriangulo.deps.json
+C:\dev\FIAP\Treinamento\ExercTriangulo\bin\Debug\netcoreapp3.1\ExercTriangulo.runtimeconfig.json
+C:\dev\FIAP\Treinamento\ExercTriangulo\bin\Debug\netcoreapp3.1\ExercTriangulo.runtimeconfig.dev.json
+C:\dev\FIAP\Treinamento\ExercTriangulo\bin\Debug\netcoreapp3.1\ExercTriangulo.dll
+C:\dev\FIAP\Treinamento\ExercTriangulo\bin\Debug\netcoreapp3.1\ExercTriangulo.pdb
+C:\dev\FIAP\Treinamento\ExercTriangulo\obj\Debug\netcoreapp3.1\ExercTriangulo.csprojAssemblyReference.cache
+C:\dev\FIAP\Treinamento\ExercTriangulo\obj\Debug\netcoreapp3.1\ExercTriangulo.AssemblyInfoInputs.cache
+C:\dev\FIAP\Treinamento\ExercTriangulo\obj\Debug\netcoreapp3.1\ExercTriangulo.AssemblyInfo.cs
+C:\dev\FIAP\Treinamento\ExercTriangulo\obj\Debug\netcoreapp3.1\ExercTriangulo.dll
+C:\dev\FIAP\Treinamento\ExercTriangulo\obj\Debug\netcoreapp3.1\ExercTriangulo.pdb
